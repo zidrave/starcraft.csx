@@ -16,3 +16,4 @@ mapas historicos del battle.net de starcraft
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⡎⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢼⠥⡑⡧⠚⠧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠯⠤⠟⠉⠒⠚⠁⠀⠀⠀⠀⠀
+archivos.scx and archivos.scm
