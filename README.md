@@ -8,6 +8,11 @@ StarCraft es un videojuego de estrategia en tiempo real (RTS) desarrollado por B
 
 Pero para mi opinion personal la mejor version es la starcraft broodwar!
 
+TIP: para encontrar tus mapas, debes encontrar la siguiente carpeta:
+\AppData\Roaming\Blizzard\StarCraft\Cloud\Outgoing  (aqui estan los mapas que ya has jugado online)
+C:\Users\XXXXXXX\Documents\StarCraft\Maps  (aqui estan los mapas q descargaste al unirte a otras partidas tambien estan los auto replays y es aqui donde puedes ir agregando tus mapas para jugarlos en tu battle.net o en local.
+
+
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢴⣦⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣯⣸⣷⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
