@@ -15,5 +15,9 @@ mapas historicos del battle.net de starcraft
 ⠀⠀⠀⠀⠀⠀⠀⠀⢸⣄⡠⢼⣠⠃⠀⠀⠀EXTERMINATOR?⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⡎⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢼⠥⡑⡧⠚⠧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠯⠤⠟⠉⠒⠚⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠯⠤⠟⠉⠒⠚⠁⠀⠀
+
+⠀
+
+
 archivos.scx and archivos.scm
